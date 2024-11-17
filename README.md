@@ -7,19 +7,10 @@
 
 ## 📹 Desktop view
 
-Check out the demo of the app to see its features in action :
+Check out the ScreenShot of the app 
+
     
-[![Loom Video](https://img.shields.io/badge/Loom-0078D4?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/28ce91ac5291450397fa5c773d078b2b?sid=9bb4c34a-41cd-4443-aafb-d9c8b58c6482)
-
-
----
-
-## 📹 Mobile view
-
-Check out the demo of the app to see its features in action :
-    
-[![Loom Video](https://img.shields.io/badge/Loom-0078D4?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/28ce91ac5291450397fa5c773d078b2b?sid=9bb4c34a-41cd-4443-aafb-d9c8b58c6482)
-
+![App Screenshot](logos/ai-pix-enhance.png)
 
 ---
 
