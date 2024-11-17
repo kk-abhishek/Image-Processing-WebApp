@@ -488,9 +488,10 @@ else:
 st.markdown('''
 ---
 <div style="text-align: center; color: #d1d5db;">
-    Created and Copyrighted <b style="color: #fbbf24;">©</b>
-    <a href="https://www.linkedin.com/in/abhishek-kk-0131-20-07-/" target="_blank" style="color: #fbbf24;">Abhishek KK</a>
+    <b style="color: #ffffff;"> © 2024 </b> 
+    <a href="https://www.linkedin.com/in/abhishek-kk-0131-20-07/" target="_blank" style="color: #fbbf24;"> Abhishek KK</a><b style="color: #ffffff;">. All Rights Reserved.</b> 
 </div>
+
 
 
 <div style="text-align: center; margin-top: 10px;">
