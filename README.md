@@ -49,7 +49,7 @@ Access the live application here :
 ## 🔧 Project Structure
 
 ```plaintext
-.
+.Image-Processing-WebApp/
 ├── .streamlit              # Streamlit configuration
 │   └── config.toml         # Streamlit app settings
 ├── logos                   # Logos and branding
