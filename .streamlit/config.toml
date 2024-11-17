@@ -1,0 +1,9 @@
+# config.toml
+
+[theme]
+base = "dark"  # Enforce dark mode
+primaryColor = "#1E88E5"  # Primary button color (blue)
+backgroundColor = "#000916"  # Dark background color
+secondaryBackgroundColor = "#262730"  # Sidebar background color
+textColor = "#FAFAFA"  # Light text color
+font = "sans serif"  # Use a sans-serif font
