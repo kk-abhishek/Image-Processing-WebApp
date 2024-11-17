@@ -18,7 +18,7 @@ Check out the ScreenShot of the app
 
 Check out the demo of the app to see its features in action :
     
-[![Loom Video](https://img.shields.io/badge/Loom-0078D4?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/28ce91ac5291450397fa5c773d078b2b?sid=9bb4c34a-41cd-4443-aafb-d9c8b58c6482)
+[![Loom Video](https://img.shields.io/badge/Loom-0078D4?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/d507e4837cb6481cbc6ba7c0fa873951?sid=e03a6e0f-f91d-4d5b-91da-24017a12e4e7)
 
 
 ---
