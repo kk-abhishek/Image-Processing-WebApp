@@ -106,7 +106,7 @@ Access the live application here :
     ```
     After executing this command, a link (e.g., http://localhost:8501) will appear in the terminal. Click on the link or paste it into your browser to access the app locally.
 
-
+---
 ## 🌐 Deploying on Streamlit Cloud
 
 - **Sign Up/Login:**
