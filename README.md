@@ -56,6 +56,10 @@ Access the live application here :
 │   └── logo2.png           # Logo image
 ├── sample_images           # Folder containing sample images
 │   └── list of images      # Sample images for demonstration
+├── Codes                   # Folder containing all codes
+│   └── app.py              
+│   └── index.html         
+│   └── style.css           
 ├── app.py                  # Main app script
 ├── requirements.txt        # Python dependencies
 ├── package.txt             # Additional package requirements
