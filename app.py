@@ -482,7 +482,7 @@ if image is not None:
         with col6:
             st.image(cv2.cvtColor(enhanced_image, cv2.COLOR_BGR2RGB), caption="Enhanced Image", use_container_width=True)
 else:
-    st.info("Select a test image from the app's database, upload your own, or provide an image URL by clicking the arrow in the top-left corner to get started! 📸✨")
+    st.info("Select a test image from the app's database, upload your own, or provide an image URL from the dashboard to get started! 📸✨")
 
 
 st.markdown('''
