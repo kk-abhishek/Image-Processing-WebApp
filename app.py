@@ -40,7 +40,7 @@ def high_quality_enhancement(image):
 
 
 # Set page configuration
-st.set_page_config(layout='wide', initial_sidebar_state='collapsed')
+st.set_page_config(layout='wide', initial_sidebar_state='expanded')
 
 # CSS styling
 # with open('style.css') as f:
